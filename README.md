@@ -1,5 +1,5 @@
 Nog3aaa!
 
 ****************************************************************
-*![absaid's 42 stats](https://badge.mediaplus.ma/binary/mnassi)*
+*        (https://badge.mediaplus.ma/binary/mnassi)            *
 ****************************************************************
