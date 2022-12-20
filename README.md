@@ -1,5 +1,5 @@
 Nog3aaa!
 
 ****************************************************************
-*        (https://badge.mediaplus.ma/binary/mnassi)            *
+[![mnassi's 42 stats](https://badge.mediaplus.ma/darkblue/mnassi)](https://github.com/mnassi/badge42)*
 ****************************************************************
