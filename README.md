@@ -1,4 +1,4 @@
-### Hi there 👋 I'm cazz!
+### Hi there 👋 I'm mnassi!
 
 Im a software enginner student
 
