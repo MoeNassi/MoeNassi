@@ -7,7 +7,7 @@ Im a software enginner student
 
 ## 🤖 Tools
 - I primarily use c, html, css
-- js is pretty cool too
+- js and c++ are pretty cool too
 
 ***********************************************************************************************************
 *   [![mnassi's 42 stats](https://badge.mediaplus.ma/binary/mnassi)](https://github.com/mnassi/badge42)   *
