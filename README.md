@@ -10,5 +10,5 @@ Im a software enginner student
 - js and c++ are pretty cool too
 
 ***********************************************************************************************************
-*   ![mnassi's 42 stats](https://badge.mediaplus.ma/naruto/mnassi)   *
+![mnassi's 42 stats](https://badge.mediaplus.ma/naruto/mnassi)
 ***********************************************************************************************************
