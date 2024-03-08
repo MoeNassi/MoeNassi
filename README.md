@@ -4,6 +4,7 @@ Im a software enginner student
 
 ## 📑 Where to find me
 - [Instagram](https://www.instagram.com/med_nassi20/)
+- [LinkedIn](https://www.linkedin.com/in/mohammed-nassi-a44095279/)
 
 ## 🤖 Tools
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
