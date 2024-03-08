@@ -6,6 +6,8 @@ Im a software enginner student
 - [Instagram](https://www.instagram.com/med_nassi20/)
 
 ## 🤖 Tools
+
+  <i class="devicon-aftereffects-plain colored"></i>
 - <i class="devicon-aftereffects-plain colored"></i>
 
 ***********************************************************************************************************
