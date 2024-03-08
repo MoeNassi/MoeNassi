@@ -6,8 +6,7 @@ Im a software enginner student
 - [Instagram](https://www.instagram.com/med_nassi20/)
 
 ## 🤖 Tools
-
-  <i class="devicon-aftereffects-plain colored"></i>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 - <i class="devicon-aftereffects-plain colored"></i>
 
 ***********************************************************************************************************
