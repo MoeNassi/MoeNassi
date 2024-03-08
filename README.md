@@ -6,8 +6,7 @@ Im a software enginner student
 - [Instagram](https://www.instagram.com/med_nassi20/)
 
 ## 🤖 Tools
-- I primarily use c, html, css
-- js and c++ are pretty cool too
+- <i class="devicon-aftereffects-plain colored"></i>
 
 ***********************************************************************************************************
 ![mnassi's 42 stats](https://badge.mediaplus.ma/naruto/mnassi)
