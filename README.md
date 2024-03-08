@@ -7,7 +7,7 @@ Im a software enginner student
 
 ## 🤖 Tools
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
+- <img style="width: 50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
 
 ***********************************************************************************************************
 ![mnassi's 42 stats](https://badge.mediaplus.ma/naruto/mnassi)
